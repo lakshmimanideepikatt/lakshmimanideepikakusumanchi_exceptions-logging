@@ -1,0 +1,9 @@
+2020-03-02 16:51:25 DEBUG App:12 - For House Construction enter 1
+For Intrest calculation enter 2
+2020-03-02 16:51:32 DEBUG App:22 - Type of house materials High standard materials has a cost of 1800
+2020-03-02 16:51:32 DEBUG App:22 - Type of house materials High standard material and fully automated home has a cost of 2500
+2020-03-02 16:51:32 DEBUG App:22 - Type of house materials Standard materials has a cost of 1200
+2020-03-02 16:51:32 DEBUG App:22 - Type of house materials Above standard materials has a cost of 1500
+2020-03-02 16:51:32 DEBUG App:24 - Enter the amount corresponding to standard you want to construct
+2020-03-02 16:51:38 DEBUG App:26 - Enter number of yards in site
+2020-03-02 16:51:42 DEBUG App:29 - Total cost for construction of building is: 45000
